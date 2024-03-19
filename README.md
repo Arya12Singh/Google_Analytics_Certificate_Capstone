@@ -26,5 +26,5 @@ Arya Singh is a data enthusiast with a passion for turning data into actionable 
 - Follow Arya's blog for more insights and articles on data analytics.
 
 ## Acknowledgements
-This project is part of Arya Singh's coursework at Northeastern University and is used for educational purposes. The data used is publicly available and was provided by Mobius.
+This project is part of Arya Singh's certification on google data analytics and is used for educational purposes. The data used is publicly available and was provided by Mobius.
 
