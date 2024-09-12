@@ -18,13 +18,12 @@ This repository hosts an R script dedicated to the analysis of fitness data from
 - Key patterns and trends were identified, suggesting optimal times for activity and pointing out weekly variations in user habits.
 - For a detailed narrative of the analysis and findings, including real-world applications and in-depth insights, visit my blog post: [Analyzing the Bellabeat Case Study](https://aryasingh.hashnode.dev/analyzing-the-bellabeat-case-study#heading-ask).
 
-## About the Author
-Arya Singh is a data enthusiast with a passion for turning data into actionable insights. Currently pursuing a master's in analytics, Arya combines analytical expertise with strong communication skills to bridge the gap between data and strategic business decisions.
+## About me
+I am a data enthusiast passionate about turning data into actionable insights. Currently pursuing a master's in analytics, I combines analytical expertise with strong communication skills to bridge the gap between data and strategic business decisions.
 
 ## Contact
-- Connect with Arya Singh on [LinkedIn](https://www.linkedin.com/in/arya-singh-3382a9269/).
-- Follow Arya's blog for more insights and articles on data analytics.
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/arya-singh-3382a9269/).
 
 ## Acknowledgements
-This project is part of Arya Singh's certification on google data analytics and is used for educational purposes. The data used is publicly available and was provided by Mobius.
+This project is part of my certification on Google data analytics and is used for educational purposes. The data used is publicly available and was provided by Mobius.
 
